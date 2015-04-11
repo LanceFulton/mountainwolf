@@ -11,7 +11,7 @@ body {
 }
 
 a {
-  color: #337ab7;
+  color: #337AB7;
 }
 
 input {
@@ -75,9 +75,18 @@ input {
 .restaurantName {
   font-weight: 400;
   font-size: 1.75em;
+  margin-left: 10px;
 }
 
 .restaurantLocation {
   font-size: 1.55em;
   text-align: right;
+  margin-right: 10px;
+}
+
+.star-rating {
+  color: #337AB7;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 1.3em;
 }
