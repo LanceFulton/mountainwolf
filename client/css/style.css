@@ -54,6 +54,10 @@ input {
   padding: 2px;
 }
 
+.navbarSearch form {
+  float: right;
+}
+
 .spacer {
   height: 100%;
   padding: 2px;
