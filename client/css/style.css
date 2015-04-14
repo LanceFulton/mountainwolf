@@ -110,3 +110,13 @@ input {
 .restaurant-info .restaurant-location {
   font-size: 2em;
 }
+
+.restaurantName {
+  font-weight: 400;
+  font-size: 1.75em;
+}
+
+.restaurantLocation {
+  font-size: 1.55em;
+  text-align: right;
+}
